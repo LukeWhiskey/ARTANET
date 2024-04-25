@@ -1,0 +1,25 @@
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\bin\Debug\net7.0-windows\ARTANET PrisMv1.exe
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\bin\Debug\net7.0-windows\ARTANET PrisMv1.deps.json
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\bin\Debug\net7.0-windows\ARTANET PrisMv1.runtimeconfig.json
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\bin\Debug\net7.0-windows\ARTANET PrisMv1.dll
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\bin\Debug\net7.0-windows\ARTANET PrisMv1.pdb
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\bin\Debug\net7.0-windows\PacketDotNet.dll
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\bin\Debug\net7.0-windows\Prism.dll
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\bin\Debug\net7.0-windows\SharpPcap.dll
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\ARTANET PrisMv1.csproj.AssemblyReference.cache
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\ARTANET PrisMv1_MarkupCompile.cache
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\ARTANET PrisMv1_MarkupCompile.lref
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\ARTANET PrisMv1.g.resources
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\ARTANET PrisMv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\ARTANET PrisMv1.AssemblyInfoInputs.cache
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\ARTANET PrisMv1.AssemblyInfo.cs
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\ARTANET PrisMv1.csproj.CoreCompileInputs.cache
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\ARTANET PrisMv1.csproj.CopyComplete
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\ARTANET PrisMv1.dll
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\refint\ARTANET PrisMv1.dll
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\ARTANET PrisMv1.pdb
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\ARTANET PrisMv1.genruntimeconfig.cache
+C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\ref\ARTANET PrisMv1.dll

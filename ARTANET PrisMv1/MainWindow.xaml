@@ -1,0 +1,89 @@
+﻿<Window x:Class="ARTANET_PrisMv1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ARTANET_PrisMv1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Background="#510140">
+    <Grid>
+        <StackPanel Grid.Row="0">
+            <Polygon Points="0,0, 0,185, 250,0" Fill="purple" Stroke="DarkMagenta"/>
+        </StackPanel>
+        <StackPanel Grid.Row="0">
+            <Polygon Points="550,0, 800,0, 800,185" Fill="purple" Stroke="DarkMagenta"/>
+        </StackPanel>
+        <StackPanel Grid.Row="0">
+            <Polygon Points="0,250, 0,435, 250,435" Fill="purple" Stroke="DarkMagenta"/>
+        </StackPanel>
+        <StackPanel Grid.Row="0">
+            <Polygon Points="800,250, 800,435, 550,435" Fill="purple" Stroke="DarkMagenta"/>
+        </StackPanel>
+        <Border BorderBrush="black" BorderThickness="1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <!-- Define three columns, each taking an equal portion of the window's width -->
+                    <RowDefinition Height="75"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid Background="transparent" Grid.Row="0" Grid.ColumnSpan="2">
+                    <Grid.ColumnDefinitions>
+                        <!-- Define three columns, each taking an equal portion of the window's width -->
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <TextBlock Text="A.R.T.A.N.E.T" 
+                       Grid.ColumnSpan="10"
+                       Foreground="White"
+                       VerticalAlignment="Center"
+                       HorizontalAlignment="Center"
+                       FontSize="40"
+                       FontFamily="Century Gothic"/>
+
+                    <StackPanel 
+                        Grid.Row="0" 
+                        Grid.Column="9" 
+                        Orientation="Horizontal" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Center" 
+                        Background="Green">
+                        <Image Width="70" Height="70"/>
+                    </StackPanel>
+                    <StackPanel 
+                        Grid.Row="0" 
+                        Grid.Column="8" 
+                        Orientation="Horizontal" 
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Center" 
+                        Background="Blue">
+                        <Image Width="70" Height="70"/>
+                    </StackPanel>
+                </Grid>
+                <Grid Grid.Row="2" Grid.ColumnSpan="2">
+                    <!-- Add any other content here -->
+                    <StackPanel Orientation="Horizontal" Grid.ColumnSpan="2">
+                        <Polygon Points="40,0 200,0 160,50 0,50" Fill="#7e0063" Stroke="#d529d1" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                        <Polygon Points="40,0 200,0 160,50 0,50" Fill="#7e0063" Stroke="#d529d1" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                        <Polygon Points="40,0 200,0 160,50 0,50" Fill="#7e0063" Stroke="#d529d1" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                        <Polygon Points="40,0 200,0 160,50 0,50" Fill="#7e0063" Stroke="#d529d1" HorizontalAlignment="Center" VerticalAlignment="Bottom" />
+                    </StackPanel>
+                </Grid>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

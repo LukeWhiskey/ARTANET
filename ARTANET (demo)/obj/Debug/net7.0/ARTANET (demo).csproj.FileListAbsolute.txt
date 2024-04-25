@@ -1,0 +1,18 @@
+C:\Users\MCFox\Desktop\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).csproj.AssemblyReference.cache
+C:\Users\MCFox\Desktop\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCFox\Desktop\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).AssemblyInfoInputs.cache
+C:\Users\MCFox\Desktop\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).AssemblyInfo.cs
+C:\Users\MCFox\Desktop\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).csproj.CoreCompileInputs.cache
+C:\Users\MCFox\Desktop\ARTANET (demo)\bin\Debug\net7.0\ARTANET (demo).exe
+C:\Users\MCFox\Desktop\ARTANET (demo)\bin\Debug\net7.0\ARTANET (demo).deps.json
+C:\Users\MCFox\Desktop\ARTANET (demo)\bin\Debug\net7.0\ARTANET (demo).runtimeconfig.json
+C:\Users\MCFox\Desktop\ARTANET (demo)\bin\Debug\net7.0\ARTANET (demo).dll
+C:\Users\MCFox\Desktop\ARTANET (demo)\bin\Debug\net7.0\ARTANET (demo).pdb
+C:\Users\MCFox\Desktop\ARTANET (demo)\bin\Debug\net7.0\PacketDotNet.dll
+C:\Users\MCFox\Desktop\ARTANET (demo)\bin\Debug\net7.0\SharpPcap.dll
+C:\Users\MCFox\Desktop\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).csproj.CopyComplete
+C:\Users\MCFox\Desktop\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).dll
+C:\Users\MCFox\Desktop\ARTANET (demo)\obj\Debug\net7.0\refint\ARTANET (demo).dll
+C:\Users\MCFox\Desktop\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).pdb
+C:\Users\MCFox\Desktop\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).genruntimeconfig.cache
+C:\Users\MCFox\Desktop\ARTANET (demo)\obj\Debug\net7.0\ref\ARTANET (demo).dll

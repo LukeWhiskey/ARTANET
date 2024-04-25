@@ -1,0 +1,63 @@
+{
+  "Filter_attribute_syntax": {
+    "description": "Specifies the syntax that the 'Filter' attribute can take in SharpPcap.",
+    "examples": {
+      "Ethernet": {
+        "syntax": "ether dst host 00:11:22:33:44:55",
+        "description": "Filters packets based on the destination MAC address."
+      },
+      "IPv4": {
+        "syntax": "ip src 192.168.0.1",
+        "description": "Filters packets based on the source IPv4 address."
+      },
+      "IPv6": {
+        "syntax": "ip6 dst host 2001:db8::1",
+        "description": "Filters packets based on the destination IPv6 address."
+      },
+      "TCP": {
+        "syntax": "port 80",
+        "description": "Filters traffic on port 80, typically used for HTTP (Hypertext Transfer Protocol)."
+      },
+      "UDP": {
+        "syntax": "port 53",
+        "description": "Filters traffic on port 53, typically used for DNS (Domain Name System)."
+      },
+      "ICMP": {
+        "syntax": "icmp",
+        "description": "Filters ICMP (Internet Control Message Protocol) packets (ping, traceroute, etc.)."
+      },
+      "ARP": {
+        "syntax": "arp",
+        "description": "Filters ARP (Address Resolution Protocol) packets."
+      },
+      "DNS": {
+        "syntax": "port 53",
+        "description": "Filters traffic on port 53, typically used for DNS (Domain Name System)."
+      },
+      "HTTP": {
+        "syntax": "port 80",
+        "description": "Filters traffic on port 80, typically used for HTTP (Hypertext Transfer Protocol)."
+      },
+      "HTTPS": {
+        "syntax": "port 443",
+        "description": "Filters traffic on port 443, typically used for HTTPS (HTTP Secure)."
+      },
+      "FTP": {
+        "syntax": "port 21",
+        "description": "Filters traffic on port 21, typically used for FTP (File Transfer Protocol)."
+      },
+      "SMTP": {
+        "syntax": "port 25",
+        "description": "Filters traffic on port 25, typically used for SMTP (Simple Mail Transfer Protocol)."
+      },
+      "POP3": {
+        "syntax": "port 110",
+        "description": "Filters traffic on port 110, typically used for POP3 (Post Office Protocol version 3)."
+      },
+      "IMAP": {
+        "syntax": "port 143",
+        "description": "Filters traffic on port 143, typically used for IMAP (Internet Message Access Protocol)."
+      }
+    }
+  }
+}

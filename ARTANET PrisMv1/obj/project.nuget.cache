@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1gRR/9IlSRmkszW/LCEFw7Jk48GQDLnDBk0nkO1BLDj91NTSnL0NIWznTJG9gAMHK78ESBWbskYpP83qXdDI3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MCFox\\Desktop\\ARTANET PrisMv1\\ARTANET PrisMv1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MCFox\\.nuget\\packages\\packetdotnet\\1.4.7\\packetdotnet.1.4.7.nupkg.sha512",
+    "C:\\Users\\MCFox\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\MCFox\\.nuget\\packages\\sharppcap\\6.3.0\\sharppcap.6.3.0.nupkg.sha512",
+    "C:\\Users\\MCFox\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\MCFox\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\MCFox\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
