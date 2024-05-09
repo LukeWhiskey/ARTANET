@@ -1,0 +1,19 @@
+{
+  "reportGenIntervalMinute": 15,
+  "simulatedDataStream": {
+    "testValue": "true",
+    "NetworkAnalysis": {
+      "database": "Test",
+      "collection": "Test",
+      "Assets": "Test"
+    }
+  },
+  "realDataStrema": {
+    "testValue": "false",
+    "NetworkAnalysis": {
+      "database": "0",
+      "collection": "0",
+      "Assets": "0"
+    }
+  }
+}

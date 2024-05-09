@@ -1,0 +1,57 @@
+[
+  {
+    "Protocol": "TCP",
+    "SourcePort": 12345,
+    "DestPort": 80,
+    "Packets": 100,
+    "BytesIn": 10000,
+    "Bytes": 20000,
+    "Label": "Normal"
+  },
+  {
+    "Protocol": "UDP",
+    "SourcePort": 54321,
+    "DestPort": 53,
+    "Packets": 50,
+    "BytesIn": 5000,
+    "Bytes": 10000,
+    "Label": "Normal"
+  },
+  {
+    "Protocol": "TCP",
+    "SourcePort": 23456,
+    "DestPort": 443,
+    "Packets": 200,
+    "BytesIn": 15000,
+    "Bytes": 30000,
+    "Label": "Attack"
+  },
+  {
+    "Protocol": "ICMP",
+    "SourcePort": 9876,
+    "DestPort": 80,
+    "Packets": 20,
+    "BytesIn": 2000,
+    "Bytes": 4000,
+    "Label": "Normal"
+  },
+  {
+    "Protocol": "UDP",
+    "SourcePort": 6789,
+    "DestPort": 123,
+    "Packets": 150,
+    "BytesIn": 12000,
+    "Bytes": 25000,
+    "Label": "Attack"
+  },
+  {
+    "Protocol": "TCP",
+    "SourcePort": 34567,
+    "DestPort": 22,
+    "Packets": 80,
+    "BytesIn": 8000,
+    "Bytes": 16000,
+    "Label": "Normal"
+  }
+
+]

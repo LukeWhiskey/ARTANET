@@ -16,3 +16,51 @@ C:\Users\MCFox\Desktop\ARTANET (demo)\obj\Debug\net7.0\refint\ARTANET (demo).dll
 C:\Users\MCFox\Desktop\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).pdb
 C:\Users\MCFox\Desktop\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).genruntimeconfig.cache
 C:\Users\MCFox\Desktop\ARTANET (demo)\obj\Debug\net7.0\ref\ARTANET (demo).dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\ARTANET (demo).exe
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\ARTANET (demo).deps.json
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\ARTANET (demo).runtimeconfig.json
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\ARTANET (demo).dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\ARTANET (demo).pdb
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\PacketDotNet.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\SharpPcap.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).csproj.AssemblyReference.cache
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).AssemblyInfoInputs.cache
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).AssemblyInfo.cs
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).csproj.CoreCompileInputs.cache
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).csproj.CopyComplete
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\obj\Debug\net7.0\refint\ARTANET (demo).dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).pdb
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\obj\Debug\net7.0\ARTANET (demo).genruntimeconfig.cache
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\obj\Debug\net7.0\ref\ARTANET (demo).dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\DnsClient.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\Snappier.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\Accord.dll.config
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\Accord.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\Accord.MachineLearning.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\Accord.Math.Core.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\Accord.Math.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\Accord.Statistics.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\DynamicInterop.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\LiveCharts.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\LiveCharts.Wpf.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\RDotNet.NativeLibrary.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\RDotNet.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\RDotNet.FSharp.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET (demo)\bin\Debug\net7.0\RDotNetInstanceHelper.dll

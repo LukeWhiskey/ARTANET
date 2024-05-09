@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\MCFox\Desktop\ARTANET PrisMv1\obj\Debug\net7.0-windows\
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET PrisMv1\obj\Debug\net7.0-windows\
 ARTANET_PrisMv1
 none
 false
 TRACE;DEBUG;NET;NET7_0;NETCOREAPP
-C:\Users\MCFox\Desktop\ARTANET PrisMv1\App.xaml
+C:\Users\MCFox\Source\Repos\LukeWhiskey\ARTANET\ARTANET PrisMv1\App.xaml
 11407045341
 
 3-1233169557
 2011773503023
 MainWindow.xaml;
 
-False
+True
 

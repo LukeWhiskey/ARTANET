@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MCFox\\Desktop\\ARTANET (demo)\\ARTANET (demo).csproj": {}
+    "C:\\Users\\MCFox\\Source\\Repos\\LukeWhiskey\\ARTANET\\ARTANET (demo)\\ARTANET (demo).csproj": {}
   },
   "projects": {
-    "C:\\Users\\MCFox\\Desktop\\ARTANET (demo)\\ARTANET (demo).csproj": {
+    "C:\\Users\\MCFox\\Source\\Repos\\LukeWhiskey\\ARTANET\\ARTANET (demo)\\ARTANET (demo).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MCFox\\Desktop\\ARTANET (demo)\\ARTANET (demo).csproj",
+        "projectUniqueName": "C:\\Users\\MCFox\\Source\\Repos\\LukeWhiskey\\ARTANET\\ARTANET (demo)\\ARTANET (demo).csproj",
         "projectName": "ARTANET (demo)",
-        "projectPath": "C:\\Users\\MCFox\\Desktop\\ARTANET (demo)\\ARTANET (demo).csproj",
+        "projectPath": "C:\\Users\\MCFox\\Source\\Repos\\LukeWhiskey\\ARTANET\\ARTANET (demo)\\ARTANET (demo).csproj",
         "packagesPath": "C:\\Users\\MCFox\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MCFox\\Desktop\\ARTANET (demo)\\obj\\",
+        "outputPath": "C:\\Users\\MCFox\\Source\\Repos\\LukeWhiskey\\ARTANET\\ARTANET (demo)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,9 +44,41 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Accord": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Accord.MachineLearning": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Accord.Statistics": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "LiveCharts.Wpf": {
+              "target": "Package",
+              "version": "[0.9.7, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.25.0, )"
+            },
+            "RDotNet.FSharp": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "RDotNetInstanceHelper": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
             "SharpPcap": {
               "target": "Package",
               "version": "[6.2.5, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             }
           },
           "imports": [

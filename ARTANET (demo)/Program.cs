@@ -4,11 +4,13 @@ using PacketDotNet;
 using PacketDotNet.Ieee80211;
 using PacketDotNet.Tcp;
 using System.Net.Sockets;
+using ARTANET__demo_;
 
 class Program
 {
     static void Main(string[] args)
     {
+        SimulatedDataStream.Simulate();
         // Retrieve the list of available network interfaces
         var devices = CaptureDeviceList.Instance;
         if (devices.Count == 0)
@@ -101,8 +103,6 @@ class Program
                 string DhcpV4client = DhcpV4Packet.ClientAddress.ToString();
                 // Console.WriteLine($"Protocol: {protocol}");
             }
-
-
         }
         catch (Exception ex)
         {
